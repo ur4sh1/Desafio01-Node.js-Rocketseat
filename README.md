@@ -29,7 +29,7 @@ Instalar o yarn
 yarn install
 ```
 Executar o projeto
-````
+```
 yarn dev
 ```
 
